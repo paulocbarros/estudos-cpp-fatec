@@ -1,0 +1,27 @@
+# --- Executáveis compilados ---
+*.exe
+*.out
+*.app
+
+# --- Arquivos de objetos e bibliotecas ---
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+
+# --- Pastas e arquivos do VS Code ---
+.vscode/
+.history/
+*.log
+
+# --- Arquivos temporários do Sistema Operacional ---
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# --- Outros arquivos binários de compilação ---
+*.pdb
+*.ilk
+*.idb
